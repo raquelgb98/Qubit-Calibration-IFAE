@@ -1,0 +1,1 @@
+{"QuickSyn Power": 13, "RF Source Power": 15, "SSBFreqQubit": 70E6, "SSBFreqCavity": 70E6, "PulseWidth": 7E-9, "ReadoutAmplitude": 175E-3, "ReadoutDuration": 2E-6}
